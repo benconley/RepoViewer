@@ -1,2 +1,2 @@
-# RepoViewer
+# repoViewer
 Simple Github repository viewer 
