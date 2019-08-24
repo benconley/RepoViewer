@@ -1,5 +1,6 @@
 # repoViewer
 Author: [Ben Conley](http://benconley.net/)
+
 repoViewer is a simple nodeJS application to retrieve and display GitHub repository information
   - Retrieve simple info for a configured GitHub user account
   - Return information as JSON through an open endpoint
