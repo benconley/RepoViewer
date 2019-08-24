@@ -41,6 +41,7 @@ $ node app.js
 ```
 ### Logging
 Logger feature prints to stdout for consumption by Elastic Stack or similiar tooling. Environment settings will determine color formatting for logger
+
 Example output:
 ```
 ::ffff:98.122.144.182 - - [24/Aug/2019:14:16:00 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
