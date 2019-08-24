@@ -6,6 +6,10 @@ repoViewer is a simple nodeJS application to retrieve and display GitHub reposit
 
 Example installation exists on AWS. Contact me if you want to demo it because the instance is not running all the time:
     http://ec2-34-213-169-46.us-west-2.compute.amazonaws.com:3000/
+
+![Application Screenshot](http://teamshocker.com/pics/dev/thumb_repoViewer.png)
+
+
 ### Installation
 repoViewer requires [Node.js](https://nodejs.org/) to run.
 
